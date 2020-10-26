@@ -1,2 +1,2 @@
-# detect-face
+# face-detect
 study
